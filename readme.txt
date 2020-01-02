@@ -1,1 +1,1 @@
-This Is Weather Project
+License Under Appache 2.0
